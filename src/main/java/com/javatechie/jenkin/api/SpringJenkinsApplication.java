@@ -16,7 +16,7 @@ public class SpringJenkinsApplication {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("sample asasas"  );
+		System.out.println("sample asasas asasas"  );
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
